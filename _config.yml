@@ -3,41 +3,41 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Mobile App Landing Page Template
-email: contact@sandoche.com
-description: Free to use static landing page template to showcase your mobile app
+title: 프롬 Prom 소셜 디스커버리
+email: promxrcom@gmail.com
+description: 나를 높이는 주변 10명 만들기, 프로젝트 프롬
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://promxr.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+twitter_username: promxr
+github_username:  unleesh
+author: Jesse Lee
 logo: assets/images/large-logo.png
 twitter:
-  username: sandochee
+  username: promxr
 social:
-  name: Sandoche Adittane
+  name: Promxr
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://twitter.com/promxr
+    - https://www.facebook.com/promxr
+    - https://www.linkedin.com/in/promxr
+    - https://plus.google.com/+promxr
+    - https://github.com/promxr
 
 languages: ["en"]
 ampdir: amp
 
-github: https://github.com/sandoche/Mobile-app-landingpage-template
+github: https://github.com/unleesh/promxrlanding
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
 #  google: verification_code
-#google_analytics: UA-XXXXXXXXX-X
+google_analytics: UA-206899194-1
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey
 
-#cookie_consent: true
+cookie_consent: true
 
 ### Build settings
 markdown: kramdown
