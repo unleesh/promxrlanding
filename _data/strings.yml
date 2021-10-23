@@ -1,16 +1,15 @@
 app:
   screenshots: Screenshots
-  description: Description
+  description: 나를 높이는 주변 10명 만들기, 프로젝트 프롬
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: copyright 2021 by <a href="https://www.promxr.com" target="_blank">PROM XR</a>
   links:
-    - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
-      target: _blank
+    # - title: Github
+    #   url: https://github.com/sandoche/Mobile-app-landingpage-template
+    #   target: _blank
+    - title: Terms of Service
+      url: /termsofservice
     - title: Privacy
       url: /privacy
