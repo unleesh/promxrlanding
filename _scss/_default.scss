@@ -305,6 +305,10 @@ h1, h2 {
     font-size: $font-lg;
   }
 
+  &__section-title2 {
+    font-size: $font-md;
+  }
+
   &__section {
     margin-bottom: 128px;
     @media (max-width: 768px) {
