@@ -10,6 +10,10 @@
 {% include cookie-consent.html %}
 {% endif %}
 
+{% if site.channel_io == true %}
+{% include channel_io.html %}
+{% endif %}
+
 {% if site.github %}
 <!-- {% include github-banner.html %} -->
 {% endif %}

@@ -38,6 +38,7 @@ google_analytics: UA-206899194-1
 #  appKey: doorbell_appKey
 
 cookie_consent: true
+channel_io : true
 
 ### Build settings
 markdown: kramdown
